@@ -3,9 +3,6 @@ body {
 }
 
 .App {
-  margin: auto;
-  max-width: 1600px;
-  min-width: 380px;
   text-align: center;
 }
 
